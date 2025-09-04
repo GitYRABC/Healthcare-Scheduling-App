@@ -1,4 +1,15 @@
-# Full Stack Doctors Appointment Platform with Next JS, Neon, Tailwind, Vonage, Shadcn UI 
+Doctors Appointment Platform
 
+A full-stack web application for managing doctor appointments. Users can book appointments, and doctors can manage their schedules. Includes video consultation integration and secure authentication.
 
-<img width="1470" alt="Screenshot 2025-05-27 at 1 18 06 PM" src="https://github.com/user-attachments/assets/a0d3d443-f5e1-433a-85a7-a76a3866858d" />
+Features
+
+User and doctor authentication via Clerk
+
+Book, view, and manage appointments
+
+Real-time video consultations with Vonage
+
+Data storage with Neon Postgres and Prisma ORM
+
+Responsive UI with TailwindCSS and Shadcn UI
